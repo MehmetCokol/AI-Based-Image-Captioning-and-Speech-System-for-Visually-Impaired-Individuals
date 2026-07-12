@@ -52,6 +52,11 @@ Bir test görüntüsü ile üretilen İngilizce caption ve Türkçe çeviri örn
 ![Örnek caption çıktısı](docs/example.png)
 
 ---
+### Çalışan Sistem Örneği (GIF)
+
+Mobil uygulamanın görüntüyü yakalaması, backend'e göndermesi, caption üretmesi, Türkçeye çevirmesi ve sesli çıktıyı başlatmasını gösteren kısa demo.
+
+![Çalışan sistem demosu](docs/system-demo.gif)
 
 ## Temel Özellikler
 
@@ -141,6 +146,16 @@ Varsayılan otomatik görüntü yakalama aralığı:
 | Servis | Kullanım amacı |
 |---|---|
 | DeepL API | İngilizce caption metnini Türkçeye çevirme |
+
+---
+
+---
+
+### Poster
+
+Eskişehir Teknik Üniversitesi Mühendislik Fakültesi 19.Proje Yarışmasında kullanılan poster
+
+![Poster](docs/poster.png)
 
 ---
 
@@ -622,8 +637,8 @@ Backend tarafından dönebilecek çeviri durumları:
 
 ## Proje Ekibi
 
-- Batuhan Günal
 - Mehmet Çokol  (mehmetcokol0@gmail.com)
+- Batuhan Günal
 - Ahmet Dalkılıç
 
 **Akademik Danışman:** Dr. Öğr. Üyesi Sema Candemir  
